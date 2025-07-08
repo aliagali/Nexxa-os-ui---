@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Nexxa OS UI Banner" />
+</p>
 <h1 align="center">🌈 Nexxa OS UI — Termux Edition</h1>
 
 <p align="center">

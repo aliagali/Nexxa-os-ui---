@@ -1,63 +1,37 @@
 <p align="center">
-  <img src="banner.png" alt="Nexxa OS UI Banner" />
+  <img src="https://github.com/Nexxa-pixel/Nexxa-os-ui---/assets/your-banner-image.png" width="100%" alt="Nexxa OS UI Banner"/>
 </p>
-<h1 align="center">🌈 Nexxa OS UI — Termux Edition</h1>
 
+<h1 align="center">✨ Nexxa OS UI ✨</h1>
 <p align="center">
-  A professional, animated, and colorful Termux UI system built for fun and performance.
+  A modern, RGB-styled animated Termux interface with password protection, system info, tool manager & hacker-themed UI 🌈🧠  
 </p>
 
 ---
 
-### 📲 Features
+## 🌟 Features
 
-✅ Stylish RGB-styled interface  
-✅ Password lock screen before access  
-✅ System info panel (battery, RAM, Android version, etc.)  
-✅ Tool viewer + installer  
-✅ Animated, emoji-enhanced UI  
-✅ ⚡ Clean & professional look  
-✅ Branding: Powered by **Nexxa**
-
----
-
-### 🧠 Requirements
-
-- Termux (latest version)
-- Android 7.0+
-- `bash`, `python`, `figlet`, `toilet`, `lolcat`
+- 🔒 **Animated Lock Screen** with password protection
+- 🎨 **RGB-Styled UI** with a clean hacker terminal design
+- ⚙️ **System Info Panel** (Device, Battery, RAM, Storage)
+- 📦 **Installed Tools Viewer**
+- 📲 **Tool Installer Menu**
+- 💻 Fully bash-based and works in Termux
+- 🧠 Powered by Nexxa | Developed by `@Natikx999`
 
 ---
 
-### ⚙️ Installation
+## 📸 Screenshots
 
+> *(Add screenshots or banner images here for visual appeal)*
+
+---
+
+## 🚀 Installation
+
+### 💥 Quick Start (For Termux)
 ```bash
-pkg update && pkg upgrade
-pkg install python bash git -y
-curl -LO "https://github.com/Nexxa-pixel/Nexxa-os-ui---/archive/refs/tags/v1.0.zip"
-unzip v1.0.zip
-cd Nexxa-os-ui---*
-bash nexxa.sh
-```
-
----
-
-### 📸 Preview
-
-> *Coming Soon: Video demo and screenshots of the UI in action...*
-
----
-
-### 🙏 Credits
-
-- Designed & Coded by **Nexxa (Natikx999)**
-- Subscribe on YouTube: [Natikx999](https://youtube.com/@NATIK999)
-
----
-
-### 📢 Note
-
-This is just version **v1.0**. More features, themes, and animations will come in future updates.  
-Follow and ⭐ the repo to stay updated!
-
----
+pkg update && pkg install git -y
+git clone https://github.com/Nexxa-pixel/Nexxa-os-ui---
+cd Nexxa-os-ui---
+bash nexos.sh

@@ -15,6 +15,8 @@
 </p>
 
 ---
+## preview 🗽
+[ Ui ] ( Nexxa OS UI.png )
 
 ## ✨ Features
 

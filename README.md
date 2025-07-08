@@ -16,7 +16,7 @@
 
 ---
 ## preview 🗽
-[ Ui ] ( Nexxa OS UI.png )
+![Nexxa OS UI Banner](Nexxa OS UI.png)
 
 ## ✨ Features
 

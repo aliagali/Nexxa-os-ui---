@@ -41,4 +41,22 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 git clone https://github.com/Nexxa-pixel/Nexxa-os-ui---
 cd Nexxa-os-ui---
-python nexxa.py
+python nexxa.py bash
+
+```
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/natikx999?igsh=aDFkazZkcGR2bG14">
+    <img src="https://img.shields.io/badge/Instagram-natikx999-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@NATIK999">
+    <img src="https://img.shields.io/badge/YouTube-NATIK999-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:natik.sdomain@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-natik.sdomain@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">💬 DM me or drop an email for collabs, bugs, or feedback 🚀</p>

@@ -48,7 +48,7 @@ bash nexxa.sh
 ### 🙏 Credits
 
 - Designed & Coded by **Nexxa (Natikx999)**
-- Subscribe on YouTube: [Natikx999](https://youtube.com/@Natikx999)
+- Subscribe on YouTube: [Natikx999](https://youtube.com/@NATIK999)
 
 ---
 

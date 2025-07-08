@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nexxa-pixel/Nexxa-os-ui---/assets/YOUR_BANNER_IMAGE.png" width="100%" alt="Nexxa OS UI Banner">
+  <img src="https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/refs/heads/main/banner.png" alt="Nexxa OS UI Banner"/>
 </p>
 
 <h1 align="center">🌈 NEXXA OS UI 🔥</h1>

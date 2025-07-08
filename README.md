@@ -37,3 +37,31 @@ pkg install python git -y
 git clone https://github.com/Nexxa-pixel/Nexxa-os-ui---
 cd Nexxa-os-ui---
 python nexxa.py
+
+---
+
+📬 Connect with Me
+
+Platform	Link
+
+📸 Instagram	@natikx999
+🎥 YouTube	@NATIK999
+📧 Email	natik.sdomain@gmail.com
+
+
+> 💡 Need help or want to contribute?
+Feel free to open an issue or contact me through any of the platforms above!
+
+
+
+
+---
+
+🛡 License
+
+This project is licensed under the MIT License – see LICENSE file for details.
+
+
+---
+
+Made with ❤️ by Nexxa

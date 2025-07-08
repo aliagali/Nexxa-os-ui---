@@ -1,3 +1,5 @@
+![Nexxa OS UI Banner](banner.png)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/refs/heads/main/banner.png" alt="Nexxa OS UI Banner"/>
 </p>

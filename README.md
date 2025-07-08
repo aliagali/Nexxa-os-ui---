@@ -16,7 +16,7 @@
 
 ---
 ## preview 🗽
-![Nexxa OS UI Banner](Nexxa OS UI.png)
+![Nexxa OS UI Banner](https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/refs/heads/main/Nexxa%20OS%20UI.png)
 
 ## ✨ Features
 

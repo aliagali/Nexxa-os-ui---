@@ -1,35 +1,52 @@
 <p align="center">
-  <img src="https://github.com/Nexxa-pixel/Nexxa-os-ui---/assets/your-banner-image.png" width="100%" alt="Nexxa OS UI Banner"/>
+  <img src="https://github.com/Nexxa-pixel/Nexxa-os-ui---/assets/YOUR_BANNER_IMAGE.png" width="100%" alt="Nexxa OS UI Banner">
 </p>
 
-<h1 align="center">✨ Nexxa OS UI ✨</h1>
+<h1 align="center">🌈 NEXXA OS UI 🔥</h1>
+<p align="center"><b>Advanced Animated Terminal Interface for Termux</b></p>
+<p align="center">By <b>Nexxa</b> | GitHub: <a href="https://github.com/Nexxa-pixel">@Natikx999</a></p>
+
+---
+
+## ✨ Overview
+
+**Nexxa OS UI** is a sleek, hacker-inspired Termux interface featuring:
+
+- 🎨 RGB-themed UI with smooth animations  
+- 🔐 Custom login lock screen with password  
+- 🧠 System info dashboard  
+- 📦 Tool installer with auto setup  
+- ⚡ A fully customizable terminal experience
+
+Perfect for anyone who wants to turn boring Termux into a professional cyberpunk shell.
+
+---
+
+## 📸 Preview
+
 <p align="center">
-  A modern, RGB-styled animated Termux interface with password protection, system info, tool manager & hacker-themed UI 🌈🧠  
+  <img src="https://github.com/Nexxa-pixel/Nexxa-os-ui---/assets/Screenshot_2025_0708_113047.png" width="90%" alt="Nexxa OS UI Screenshot">
 </p>
 
 ---
 
-## 🌟 Features
+## 🛠️ Available Tools
 
-- 🔒 **Animated Lock Screen** with password protection
-- 🎨 **RGB-Styled UI** with a clean hacker terminal design
-- ⚙️ **System Info Panel** (Device, Battery, RAM, Storage)
-- 📦 **Installed Tools Viewer**
-- 📲 **Tool Installer Menu**
-- 💻 Fully bash-based and works in Termux
-- 🧠 Powered by Nexxa | Developed by `@Natikx999`
+| # | Tool       | Description                      |
+|---|------------|----------------------------------|
+| 1 | Metasploit | Powerful exploit framework       |
+| 2 | Nmap       | Network scanner                  |
+| 3 | SQLmap     | SQL injection automation         |
+| 4 | Hydra      | Password brute-forcer            |
+| 5 | Nikto      | Web vulnerability scanner        |
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots or banner images here for visual appeal)*
+All tools auto-install from the UI with one tap 🚀
 
 ---
 
 ## 🚀 Installation
 
-### 💥 Quick Start (For Termux)
+### 📦 Termux Commands:
 ```bash
 pkg update && pkg install git -y
 git clone https://github.com/Nexxa-pixel/Nexxa-os-ui---

@@ -31,7 +31,7 @@
 
 ## 📥 Installation
 
-bash
+```bash
 pkg update && pkg upgrade
 pkg install python git -y
 git clone https://github.com/Nexxa-pixel/Nexxa-os-ui---
@@ -50,7 +50,7 @@ Platform	Link
 
 
 > 💡 Need help or want to contribute?
-Feel free to open an issue or contact me through any of the platforms above!
+Feel free to open an issue or contact me through any of the platforms abo0ve! ```
 
 
 

@@ -1,89 +1,60 @@
-# 🌈 Nexxa OS UI — Professional Termux Interface
+<h1 align="center">🌈 Nexxa OS UI — Termux Edition</h1>
 
-![Nexxa Banner](https://img.shields.io/badge/Made%20by-Nexxa-ff69b4?style=flat-square)  
-A full-featured, animated, and secure **UI for Termux** — built with style, colors, emojis, and your own brand. 💥
+<p align="center">
+  A professional, animated, and colorful Termux UI system built for fun and performance.
+</p>
 
 ---
 
-## 📸 Preview
+### 📲 Features
+
+✅ Stylish RGB-styled interface  
+✅ Password lock screen before access  
+✅ System info panel (battery, RAM, Android version, etc.)  
+✅ Tool viewer + installer  
+✅ Animated, emoji-enhanced UI  
+✅ ⚡ Clean & professional look  
+✅ Branding: Powered by **Nexxa**
+
+---
+
+### 🧠 Requirements
+
+- Termux (latest version)
+- Android 7.0+
+- `bash`, `python`, `figlet`, `toilet`, `lolcat`
+
+---
+
+### ⚙️ Installation
+
 ```bash
-🎨 Nexxa OS UI
-🔐 Password-Protected Access
-📊 System Info Panel
-📦 Tool Installer with Emojis
-🌈 RGB Banner with Branding
-```
-
----
-
-## ⚙️ Features
-
-✅ Animated RGB "NEXXA" Banner  
-✅ Lock Screen with password setup  
-✅ System Info Panel (Device, RAM, Battery, IP)  
-✅ One-click Tool Installer (Metasploit, Nmap, SQLmap, etc.)  
-✅ Super clean and emoji-powered menu  
-✅ Fully offline support (except IP check)
-
----
-
-## 🛠️ Installation
-
-```bash
-pkg install unzip curl jq -y
-curl -LO https://example.com/Nexxa-OS-UI.zip   # replace with actual URL
-unzip Nexxa-OS-UI.zip
-cd nexxa-ui
-chmod +x nexxa.sh modules/*.sh
+pkg update && pkg upgrade
+pkg install python bash git -y
+curl -LO "https://github.com/Nexxa-pixel/Nexxa-os-ui---/archive/refs/tags/v1.0.zip"
+unzip v1.0.zip
+cd Nexxa-os-ui---*
 bash nexxa.sh
 ```
 
-> You’ll be asked to set a password on first run. Keep it safe! 🔐
+---
+
+### 📸 Preview
+
+> *Coming Soon: Video demo and screenshots of the UI in action...*
 
 ---
 
-## 💾 Tools Included
+### 🙏 Credits
 
-- Metasploit
-- Nmap
-- SQLmap
-- Hydra
-- Nikto
-
-All tools are installed via `pkg` automatically.
+- Designed & Coded by **Nexxa (Natikx999)**
+- Subscribe on YouTube: [Natikx999](https://youtube.com/@Natikx999)
 
 ---
 
-## 📁 File Structure
-```
-nexxa-ui/
-├── nexxa.sh               # Main launcher
-├── modules/
-│   ├── lock.sh            # Password system
-│   ├── info.sh            # System info
-│   ├── tools.sh           # Tool installer
-│   └── banner.sh          # Nexxa branding banner
-├── data/
-│   └── passwd.txt         # Saved password
-```
+### 📢 Note
+
+This is just version **v1.0**. More features, themes, and animations will come in future updates.  
+Follow and ⭐ the repo to stay updated!
 
 ---
-
-## 🤖 Creator
-
-**🔮 Created by:** [Natikx999 (a.k.a. Nexxa)](https://github.com/Natikx999)  
-YouTube channel and updates coming soon! 🎥🔥
-
----
-
-## 💡 Future Plans
-
-- Add tool update checker
-- Create theme switcher (dark, neon, hacker)
-- Add animated loading screen and sounds 🎵
-
----
-
-## 📜 License
-
-Free to use, modify, and remix. Credit is appreciated but not required. ❤️

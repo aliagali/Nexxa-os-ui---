@@ -1,40 +1,99 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/main/banner.png" alt="Nexxa OS UI Banner" width="100%">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/main/banner.png" alt="Nexxa OS UI" width="300" />
+</h1><h2 align="center">
+  🔰 Nexxa OS UI - Professional Termux Shell 🔰
+</h2><p align="center">
+  <img src="https://img.shields.io/badge/Made%20by-Nexxa-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Termux-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Theme-RGB%20Animated-brightgreen?style=for-the-badge" />
+</p><p align="center">
+  <img src="https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/main/Nexxa%20OS%20UI.png" alt="Cover" width="400" />
 </p>
-
-<h1 align="center">🌌 Nexxa OS UI - Terminal Redefined</h1>
-
-<p align="center">
-  A stylish and animated Termux theme with a professional touch — custom login screen, system info panel, RGB branding, emoji UI, and tool dashboard. Make your terminal look like a futuristic OS.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Nexxa-pixel/Nexxa-os-ui---?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/Nexxa-pixel/Nexxa-os-ui---?style=flat-square" />
-  <img src="https://img.shields.io/github/license/Nexxa-pixel/Nexxa-os-ui---?style=flat-square" />
-</p>
-
 ---
-## preview 🗽
-![Nexxa OS UI Banner](https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/refs/heads/main/Nexxa%20OS%20UI.png)
 
-## ✨ Features
+✨ About
 
-- 🔒 **Animated Lock Screen** with password input  
-- 🌈 **RGB Nexxa Branding** with custom ASCII art  
-- ⚙️ **System Info Panel** – battery, CPU, device stats  
-- 📦 **Installed Tools Viewer** – check your setup visually  
-- 📲 **Tool Installer** with menu  
-- 🖌️ Stylish emojis, colors, and smooth UI flow  
-- 🔧 Fully built in Python for Termux users
+> Nexxa OS UI is a professional, sleek and powerful Termux UI skin designed to feel like a real hacker interface. Featuring animations, password protection, RGB styling, tool management, and system info displays.
+
+
+
 
 ---
 
-## 🚀 Installation
+📱 Preview
 
-```bash
-pkg update && pkg upgrade -y
-pkg install git python -y
-git clone https://github.com/Nexxa-pixel/Nexxa-os-ui---
-cd Nexxa-os-ui---
-python Nexxa.py
+Lock Screen	Main UI	Tools Menu
+
+		
+
+
+> 💡 Replace the links above with your actual screenshots.
+
+
+
+
+---
+
+🚀 Features
+
+🎨 RGB Animated UI
+
+🔐 Secure Password Login
+
+📊 System Info Dashboard
+
+🛠️ Tool Installer + Viewer
+
+🚀 Fast, Clean & Custom Shell Experience
+
+
+
+---
+
+🛠️ Installation
+
+pkg update && pkg upgrade
+pkg install git -y
+git clone https://github.com/nexxa-pixel/nexxa-os-ui---
+cd nexxa-os-ui---
+bash install.sh
+
+
+---
+
+👤 Author & Support
+
+> Built with passion by Nexxa aka Natikx999
+
+
+
+📲 Instagram: @natikx999
+
+📺 YouTube: @NATIK999
+
+📧 Email/Contact: Coming soon
+
+
+Need help or want to contribute? Open an issue or drop a message on Insta!
+
+
+---
+
+⚖️ License
+
+Licensed under the MIT License. See LICENSE file for details.
+
+
+---
+
+🌟 Show Your Support
+
+If you found this project helpful:
+
+Star the repo ⭐
+
+Share it with friends 💎
+
+Follow for more cool tools!
+
+

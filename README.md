@@ -25,7 +25,7 @@ Perfect for anyone who wants to turn boring Termux into a professional cyberpunk
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/Nexxa-pixel/Nexxa-os-ui---/assets/Screenshot_2025_0708_113047.png" width="90%" alt="Nexxa OS UI Screenshot">
+  <img src="https://github.com/Nexxa-pixel/Nexxa-os-ui---/issues/1#issue-3211204471" width="90%" alt="Nexxa OS UI Screenshot">
 </p>
 
 ---

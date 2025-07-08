@@ -1,4 +1,4 @@
-!-- 🔥 Banner -->
+<!-- 🔥 Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/refs/heads/main/banner.jpg" alt="Nexxa OS UI Banner" width="100%"/>
 </p>
@@ -42,38 +42,3 @@ pkg install python git -y
 git clone https://github.com/Nexxa-pixel/Nexxa-os-ui---
 cd Nexxa-os-ui---
 python nexxa.py
-
-🧠 Launch anytime using:
-
-python nexxa.py
-
-
----
-
-🌐 Connect With Me
-
-Platform	Link
-
-📸 Instagram	@natikx999
-🎥 YouTube	@NATIK999
-📧 Gmail	natik.sdomain@gmail.com
-
-
-> 💬 DM me for collabs, issues, or feedback! Let’s build together 🔥
-
-
-
-
----
-
-📝 License
-
-Licensed under the MIT License.
-Use it, modify it, share it — just give credits 💖
-
-
----
-
-<p align="center"><b>Made with ❤️ by Nexxa (Natikx999)</b></p>
-```
----

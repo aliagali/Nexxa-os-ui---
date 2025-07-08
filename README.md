@@ -1,67 +1,79 @@
-![Nexxa OS UI Banner](https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/refs/heads/main/banner.jpg)
+!-- 🔥 Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/refs/heads/main/banner.jpg" alt="Nexxa OS UI Banner" width="100%"/>
+</p>
 
-<h1 align="center">
-✨ Nexxa OS UI ✨
-</h1>
-
-> A stunning, animated and professional Termux interface designed for hackers, coders and personalization lovers.  
-> Unlock a new way of using Termux — with power, style, and RGB flair.
-
----
-
-## 🔥 Features
-
-- ✅ Animated Login Lock Screen
-- ✅ Stylish, clean user interface
-- ✅ RGB-highlighted branding (✨ **Nexxa** ✨)
-- ✅ Installed tools menu with emojis
-- ✅ System info panel (battery, CPU, storage)
-- ✅ Tool installer with modern UI
-- ✅ Nexxa themed password lock
-- ✅ Colorful and professional UX built using Python
-- ✅ Ready-to-run with no root needed
+<h1 align="center">🧠 Nexxa OS UI ⚡️</h1>
+<p align="center">
+  <b>⚙️ The Future of Termux is Here – With a Stylish UI, RGB Power & Hacker Aesthetics</b><br>
+  <i>Created by <b>Natikx999</b></i>
+</p>
 
 ---
 
-## 📸 Preview
+## 🧩 Features
 
-![Preview Screenshot](https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/refs/heads/main/Nexxa%20OS%20UI.png)
+- ✨ Animated RGB Login UI  
+- 📱 Stylish terminal dashboard with system info  
+- 💾 Tool Installer with menu system  
+- 🔐 Custom password-protected launcher  
+- 🎨 Dark Theme + Emoji-enhanced UI  
+- 📦 Lightweight & Fast  
+- ✅ Built in Python — ready for GitHub publishing
 
 ---
 
-## 📥 Installation
+## 🖼️ Preview Screenshot
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nexxa-pixel/Nexxa-os-ui---/refs/heads/main/Nexxa%20OS%20UI.png" alt="Nexxa OS UI Preview" width="90%"/>
+</p>
+
+---
+
+## 🚀 Installation
+
+> ⚠️ **Termux is required.** Works on any Android device (no root).  
+> Just copy & paste the commands below:
 
 ```bash
-pkg update && pkg upgrade
+pkg update && pkg upgrade -y
 pkg install python git -y
 git clone https://github.com/Nexxa-pixel/Nexxa-os-ui---
 cd Nexxa-os-ui---
 python nexxa.py
 
+🧠 Launch anytime using:
+
+python nexxa.py
+
+
 ---
 
-📬 Connect with Me
+🌐 Connect With Me
 
 Platform	Link
 
 📸 Instagram	@natikx999
 🎥 YouTube	@NATIK999
-📧 Email	natik.sdomain@gmail.com
+📧 Gmail	natik.sdomain@gmail.com
 
 
-> 💡 Need help or want to contribute?
-Feel free to open an issue or contact me through any of the platforms abo0ve! ```
+> 💬 DM me for collabs, issues, or feedback! Let’s build together 🔥
 
 
-
-
----
-
-🛡 License
-
-This project is licensed under the MIT License – see LICENSE file for details.
 
 
 ---
 
-Made with ❤️ by Nexxa
+📝 License
+
+Licensed under the MIT License.
+Use it, modify it, share it — just give credits 💖
+
+
+---
+
+<p align="center"><b>Made with ❤️ by Nexxa (Natikx999)</b></p>
+```
+---
